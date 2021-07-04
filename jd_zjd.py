@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 # -*- coding: utf-8 -*
 '''
 项目名称: JD-Script / jd_zjd 
@@ -14,7 +14,7 @@ updateTime: 2021.7.1 11:22
 #ck 优先读取【JDCookies.txt】 文件内的ck  再到 ENV的 变量 JD_COOKIE='ck1&ck2' 最后才到脚本内 cookies=ck
 cookies=''
 #助力账号，填写pt_pin或用户名的值，如 zlzh = ['aaaa','xxxx','yyyy'] ,支持ENV export zlzh=['CurtinLV','xxxx','yyyy']
-zlzh = ['Curtinlv', '买买买', '东哥']
+zlzh = ['pt_key=AAJg0LYiADCUOTfSP-Iu0OH1nqDQKDQW_hQQuf2RQU1Jn0PR711RBkwvjj706p_gbmRo3GAXr7c;pt_pin=%E5%A4%A9%E8%88%9E%E7%B4%AB%E5%AB%A3;', '天舞紫嫣']
 #####
 
 

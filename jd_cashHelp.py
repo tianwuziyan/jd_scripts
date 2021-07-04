@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 # -*- coding: utf-8 -*
 '''
 项目名称: JD-Script / jd_cash
@@ -12,7 +12,7 @@ TG频道 https://t.me/TopStyle2021
 #ck 优先读取【JDCookies.txt】 文件内的ck  再到 ENV的 变量 JD_COOKIE='ck1&ck2' 最后才到脚本内 cookies=ck
 cookies = ''
 # 设置被助力的账号可填用户名 或 pin的值不要;
-cash_zlzh = ['Your JD_User', '买买买']
+cash_zlzh = ['pt_key=AAJg0LYiADCUOTfSP-Iu0OH1nqDQKDQW_hQQuf2RQU1Jn0PR711RBkwvjj706p_gbmRo3GAXr7c;pt_pin=%E5%A4%A9%E8%88%9E%E7%B4%AB%E5%AB%A3;', '天舞紫嫣']
 
 ### 推送参数设置
 # TG 机器人token
